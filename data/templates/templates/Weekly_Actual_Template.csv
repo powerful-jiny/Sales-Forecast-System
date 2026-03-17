@@ -1,0 +1,11 @@
+Account_ID,Account_Name,Account_Manager,Week_Date,Weekly_Sales,Cumulative_Sales,Achievement_Rate,Input_Date,Input_By
+1,Account A,Manager 1,2026-03-16,250000,250000,25.0%,2026-03-16,Manager 1
+2,Account B,Manager 1,2026-03-16,312500,312500,25.0%,2026-03-16,Manager 1
+3,Account C,Manager 1,2026-03-16,208333,208333,25.0%,2026-03-16,Manager 1
+4,Account D,Manager 2,2026-03-16,375000,375000,25.0%,2026-03-16,Manager 2
+5,Account E,Manager 2,2026-03-16,291667,291667,25.0%,2026-03-16,Manager 2
+6,Account F,Manager 2,2026-03-16,229167,229167,25.0%,2026-03-16,Manager 2
+7,Account G,Manager 3,2026-03-16,270833,270833,25.0%,2026-03-16,Manager 3
+8,Account H,Manager 3,2026-03-16,333333,333333,25.0%,2026-03-16,Manager 3
+9,Account I,Manager 3,2026-03-16,250000,250000,25.0%,2026-03-16,Manager 3
+10,Account J,Manager 4,2026-03-16,395833,395833,25.0%,2026-03-16,Manager 4
