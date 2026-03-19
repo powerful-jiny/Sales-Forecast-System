@@ -1,0 +1,35 @@
+# Settings
+
+Sheet 1 - Settings:
+- **Exchange_Rate (USD → KRW)**: 1300
+
+---
+
+# Device Master
+
+| Device     | Customer   | Application             | PKG_Type | PKG_Body | PKG_Pin | Tester   | Biz_Type | Assy_Actual_USD | CP_Actual_USD | FT_Actual_USD | Burnin_Actual_USD | Assy_Plan_USD | CP_Plan_USD | FT_Plan_USD | Burnin_Plan_USD | Valid_From  |
+|------------|------------|-------------------------|----------|----------|---------|----------|----------|------------------|----------------|----------------|--------------------|----------------|--------------|--------------|-----------------|-------------|
+| Device_X  | Customer_A | High Performance CPU    | BGA      | 256pin   | 0.4mm   | -        | Assy     | 5.25            | -              | -              | -                  | 5.50          | -            | -            | -               | 2026-01-01 |
+| Device_Y  | Customer_B | Standard IC            | QFP      | 144pin   | 0.5mm   | Tester_A | Turnkey  | 2.95            | 3.30           | 2.80           | 0.75               | 3.00          | 3.25         | 2.75         | 0.80            | 2026-01-01 |
+| Device_Z  | Customer_C | Test Only               | DIP      | 40pin    | 2.54mm  | Tester_B | Test     | -                | 1.50           | 1.25           | -                  | -              | 1.60         | 1.35         | -               | 2026-01-01 |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+|            |            |                         |          |          |         |          |          |                  |                |                |                    |                |              |              |                 |             |
+
+---
+
+# Instructions for Data Entry
+
+- **Biz_Type Selection Rules**: Use Assy for assembly processes, Turnkey for complete solutions, and Test for applications that require testing.
+- **Tester Field Rules**: Fill with a valid tester name if applicable; leave blank for non-testing devices.
+- **Required Fields**: All columns marked must be filled.
+- **Date Format**: Use YYYY-MM-DD for dates.
+- **USD Currency Format**: Make sure to use two decimal places for all currency values.
